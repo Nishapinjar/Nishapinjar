@@ -87,5 +87,12 @@ Topics include:
 
 
 
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nishapinjar&show_icons=true)
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nishapinjar&show_icons=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Nishapinjar)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishapinjar&layout=compact)
