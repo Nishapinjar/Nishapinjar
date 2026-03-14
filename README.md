@@ -1,44 +1,91 @@
 # 👋 Hi there, I'm Nisha Pinjar
 
-🎯 Aspiring Software Developer | Java Full Stack Learner | Problem Solver
+🎯 Java Full Stack Developer (Learning) | Spring Boot | React | SQL  
+💡 Passionate about building scalable backend systems and full stack web applications.
 
 ---
 
-## 👀 Interests
-- Java Development (Core Java, Spring Boot)
-- Full Stack Web Development
-- Web Technologies (React.js, HTML/CSS, JS)
-- Database Design (SQL, MySQL)
-- Linux & DevOps Basics
+# 🛠 Tech Stack
+
+### 💻 Programming Languages
+- Java
+- C
+- SQL
+
+### ⚙ Backend Development
+- Core Java
+- Spring Boot
+- REST APIs
+- JDBC
+
+### 🎨 Frontend
+- React.js
+- HTML
+- CSS
+- JavaScript
+
+### 🗄 Databases
+- MySQL
+
+### 🧰 Tools & Technologies
+- Git
+- GitHub
+- Linux
+- VS Code
+- Postman
+- Maven
 
 ---
 
-## 🌱 Currently Learning
-- C Programming (Foundations & Logic Building)
+# 🌱 Currently Learning
+
 - Java Full Stack Development
-- React.js (Frontend Framework)
-- SQL (Query Writing, Joins, Stored Procedures)
-- DevOps Tools (Git, GitHub, CI/CD Basics)
-- Linux (Shell, Commands, File Systems)
+- Spring Boot Microservices
+- React.js Frontend Development
+- Data Structures & Problem Solving
+- DevOps Basics (Git, CI/CD, Linux)
 
 ---
 
-## 💻 Looking to Collaborate On
-- Web Projects (Frontend + Backend)
-- Java + MySQL Based Applications
-- Open-source beginner-friendly repositories
+# 💡 Projects
+
+### 🏥 Pre-Conception Care System
+A healthcare management system designed to monitor and manage pre-pregnancy care.
+
+Features:
+- Patient and doctor management
+- Medical reports tracking
+- Lab test records
+- Family medical history tracking
+- 100+ database tables and stored procedures
+
+Tech Stack:
+Java | Spring Boot | MySQL | React.js | REST APIs | Postman
 
 ---
 
-## 💡 Projects & Practice
-- Over 25+ foundational C programs written using **VS Code**
-- Compiled using **GCC on Linux terminal** (VM environment)
-- Practicing Git, GitHub, and Linux alongside coding
+# 🚀 Learning Journey
+
+Currently documenting my learning journey in:
+
+📚 **Java Full Stack Development Repository**
+
+Topics include:
+- Core Java
+- OOP Concepts
+- Collections
+- Spring Boot
+- Microservices
+- DevOps Basics
 
 ---
 
-## 📫 Reach Me
-- 📧 Email: [nishapinjar09@gmail.com](mailto:nishapinjar09@gmail.com)
-- 🐙 GitHub: [@Nishapinjar](https://github.com/Nishapinjar)
+# 📫 Reach Me
 
----
+📧 Email: nishapinjar09@gmail.com  
+🐙 GitHub: https://github.com/Nishapinjar
+
+
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nishapinjar&show_icons=true)
